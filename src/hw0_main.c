@@ -123,7 +123,7 @@ int main() {
         } else if (result == 2) {
            // flag = 1;
             displayGame(ruma);
-            printf("\nLast piece landed in section %d. Continue sowing seeds!.\n", startSeedIndex);
+            printf("\nLast piece landed in section %d. Continue sowing seeds!\n", startSeedIndex);
             result = updateBoard(ruma, startSeedIndex, &startSeedIndex);
            
             
