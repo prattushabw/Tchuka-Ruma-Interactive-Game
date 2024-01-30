@@ -7,9 +7,11 @@ void displayGame(const int* ruma) {
     for(int i=0; i<N;i++){ 
         printf("%d ", ruma[i]);
         if(i==3){
-            printf("| ");
+            printf("| %d",ruma[i+1]);
+            break;
         }
     }
+
 }
 
 int promptUser(int *ruma){
