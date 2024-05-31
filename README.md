@@ -24,16 +24,27 @@ Tchuka Ruma is a solitaire game that involves a board with sections and counters
 
 ## Sample Gameplay #1
 2 2 2 2 | 0
+
 Choose a section (1-4): 3
+
 2 2 0 3 | 1
+
 Choose a section (1-4): 2
+
 2 0 1 4 | 1
+
 Last piece landed in section 4. Continue sowing seeds!
+
 3 1 2 0 | 2
+
 Last piece landed in section 3. Continue sowing seeds!
+
 3 1 0 1 | 3
+
 Choose a section (1-4): 2
+
 3 0 1 1 | 3
+
 You lost because the last counter fell into section 3.
 
 ## Learning Outcomes
